@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp" alt="this is my header" style="width:80%; align:center" />
+<img align="center" src="https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp" alt="this is my header" style="width:80%;" />
 
 <div id="toc">
   <ul align="center" style="list-style: none">
