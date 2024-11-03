@@ -1,4 +1,5 @@
 ![Hi, i'm Flo ](https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp){: style="width:50%;"}
+<img src="https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp" alt="this is my header" style="width:50%; height:auto;" />
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -28,6 +29,7 @@ Passionate about staying current with the latest trends and understanding comple
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" height="32" alt="Ionic" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublime-text&logoColor=white" height="32" alt="Sublime Text" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white" height="32" alt="Atom" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" height="32" alt="Adobe Photoshop" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" height="32" alt="Adobe Illustrator" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Acrobat-FF0000?logo=adobe-acrobat&logoColor=white" height="32" alt="Adobe Acrobat" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="32" alt="Vim" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" height="32" alt="Eclipse" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="32" alt="Git" style="margin-right: 4px"></div>
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1119398" style='border:none;'></iframe>
+
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
