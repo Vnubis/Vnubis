@@ -1,7 +1,6 @@
-<img align="center" src="https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp" alt="this is my header" style="width:80%;" />
-
 <div id="toc">
   <ul align="center" style="list-style: none">
+    <img align="center" src="https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp" alt="this is my header" style="width:80%;"/>
     <summary>
       <h1>
         Hi, i'm Flo 
