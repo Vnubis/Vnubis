@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp" alt="this is my header" style="width:auto; height:60%;" />
+<img src="https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp" alt="this is my header" style="width:auto; height:50%;" />
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/florianviola" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Vnubis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/NotYet" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="Idk" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">You can call me フロ ! </br>**
+<h3 align="left">You can call me  **フロ !** </br> 
 Passionate about staying current with the latest trends and understanding complex systems, I specialize in automating processes and promoting projects. Beyond my digital expertise, I have experience in the music industry and have established my own recording studio. Innovation and discovery drive both my professional and personal endeavors.</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
@@ -27,7 +27,7 @@ Passionate about staying current with the latest trends and understanding comple
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" height="32" alt="Ionic" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublime-text&logoColor=white" height="32" alt="Sublime Text" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white" height="32" alt="Atom" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" height="32" alt="Adobe Photoshop" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" height="32" alt="Adobe Illustrator" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Acrobat-FF0000?logo=adobe-acrobat&logoColor=white" height="32" alt="Adobe Acrobat" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="32" alt="Vim" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" height="32" alt="Eclipse" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="32" alt="Git" style="margin-right: 4px"></div>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1119398" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1119398)](https://tryhackme.com/p/Vnubis)
 
  **<h3 align="left">GitHub Stats</h3>**
 
