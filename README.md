@@ -11,13 +11,13 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/florianviola" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Vnubis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/NotYet" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="Idk" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a><a href="https://tryhackme.com/p/Vnubis">
+<p align="left"><a href="https://www.linkedin.com/in/florianviola" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Vnubis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/NotYet" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="Idk" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="26" style="margin-right: 4px"></a><a href="https://tryhackme.com/p/Vnubis">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Vnubis.png" alt="TryHackMe Badge" style="width:200px;" />
 </a></p>
 
 
-<h3 align="left">You can call me  **フロ !** </br> 
-Passionate about staying current with the latest trends and understanding complex systems, I specialize in automating processes and promoting projects. Beyond my digital expertise, I have experience in the music industry and have established my own recording studio. Innovation and discovery drive both my professional and personal endeavors.</h3>
+<h3 align="left">You can call me  **フロ !** </br> </h3>
+<p>Passionate about staying current with the latest trends and understanding complex systems, I specialize in automating processes and promoting projects. Beyond my digital expertise, I have experience in the music industry and have established my own recording studio. Innovation and discovery drive both my professional and personal endeavors.</p>
 
 **<h3 align="left">Rapid Fire</h3>**
 
