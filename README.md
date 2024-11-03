@@ -1,4 +1,4 @@
-![Hi, i'm Flo ](https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp | width=100)
+![Hi, i'm Flo ](https://i.ibb.co/CHVWpcp/DALL-E-Pixel-Art-Hacker-Image.webp|width=100)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
